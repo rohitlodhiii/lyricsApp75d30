@@ -80,8 +80,9 @@
     border: 0;
     border-radius: 50px;
     color: #fff;
-    font-size: 16px;
+    font-size: 13px;
     padding: 13px 30px;
+    font-family: Mochiy Pop One;
   }
   
   .btn {
@@ -90,6 +91,7 @@
     border-radius: 10px;
     color: #fff;
     padding: 4px 10px;
+    
   }
   
   ul.songs {
@@ -152,6 +154,7 @@
         max-width: 80%;
     }
     form input::placeholder{
-        font-size: 12px;
+        font-size: 9px;
+        font-family: Mochiy Pop One;
     }
   }
